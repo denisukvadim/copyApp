@@ -1,0 +1,23 @@
+.main-block {
+    margin-top: 50px; 
+}
+.main-block button {
+    width: 100%;
+    height: 60px;
+    font-size: 23px;
+}
+.main-block label {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+textarea{  
+    /* box-sizing: padding-box; */
+    overflow:hidden;
+    /* demo only: */
+    padding:10px;
+    font-size:14px;
+    display:block;
+    border-radius:5px;
+    border:6px solid #556677;
+}
